@@ -1,0 +1,53 @@
+Chetan Ulhas Patil
+Software Developer
+
+Email: chetanpatil8486@gmail.com
+Mobile: +91 9563882222
+Location: Savda, Jalgaon, Maharashtra
+LinkedIn: http://www.linkedin.com/in/chetan-pa
+
+Professional Summary:
+Chetan Ulhas Patil is a motivated MCA graduate with a strong foundation in full-stack development and computer applications. He is skilled in Python, HTML, CSS, JavaScript, PHP, and MySQL, with hands-on experience in building responsive web applications during internships. He has strong problem-solving skills, a collaborative mindset, and a passion for continuous learning in emerging technologies.
+
+Technical Skills:
+Programming Languages: Python, JavaScript, PHP
+Web Development: HTML, CSS, Responsive Design
+Database Management: MySQL
+Tools: Git, GitHub, VS Code
+Concepts: Machine Learning (Basics), Debugging
+
+Experience:
+Web Crypt Technology (January 2025 – July 2025)
+Role: Full Stack Developer Intern
+Responsibilities:
+- Developed and maintained responsive web applications using HTML, CSS, and JavaScript.
+- Designed and optimized MySQL databases.
+- Collaborated with team members for UI and backend integration.
+- Performed debugging, testing, and deployment.
+- Improved application performance and user experience.
+
+IBM (June 2024 – August 2024)
+Role: Web Developer Intern
+Responsibilities:
+- Built responsive user interfaces using HTML, CSS, and JavaScript.
+- Assisted in front-end and back-end integration.
+- Performed testing, debugging, and optimization.
+- Ensured cross-browser compatibility.
+
+Academic Project:
+Online Shopping Website (E-commerce)
+Role: Front-End Developer
+- Developed an e-commerce website using HTML, CSS, JavaScript, PHP, and MySQL.
+- Implemented authentication, product management, and cart features.
+- Designed responsive UI and optimized database performance.
+
+Education:
+MCA – KCES's Institute of Management & Research, North Maharashtra University (2025)
+BCA – KCES's Institute of Management & Research, North Maharashtra University (2023)
+HSC – Science – Faizpur College (2020)
+SSC – Shree Swaminarayan Gurukul Sanstha, Savda (2018)
+
+Certification:
+MS-CIT
+
+
