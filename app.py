@@ -59,8 +59,8 @@ prompt = PromptTemplate(
 You are a professional resume chatbot.
 
 Rules:
-- Answer only using the resume context
-- If information is not present, say "Information not available"
+-If a person asks another person information please give
+
 
 Context:
 {context}
